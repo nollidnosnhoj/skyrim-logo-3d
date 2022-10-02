@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skyrim logo
+* source:	https://sketchfab.com/3d-models/skyrim-logo-ba0828255db145a395cb170ef7d5378e
+* author:	saliam (https://sketchfab.com/saliam0899)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skyrim logo" (https://sketchfab.com/3d-models/skyrim-logo-ba0828255db145a395cb170ef7d5378e) by saliam (https://sketchfab.com/saliam0899) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
